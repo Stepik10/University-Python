@@ -1,46 +1,52 @@
 Серебряков Степан
 ПИЭ-23-1
 
-ЛАБОРАТОРНАЯ №8
+ЛАБОРАТОРНАЯ №9
 
-8.1
-<img width="1917" height="1076" alt="изображение" src="https://github.com/user-attachments/assets/5e55660d-2605-4488-8872-323e583a449c" />
-
-8.2
-<img width="1912" height="1077" alt="изображение" src="https://github.com/user-attachments/assets/fd34c733-6d71-437d-8cff-0df00029a9ba" />
-
-
-8.3
-<img width="1919" height="1079" alt="изображение" src="https://github.com/user-attachments/assets/12045fcb-811d-48cc-b8e8-285da17782d7" />
-
-
-8.4
-<img width="1919" height="1079" alt="изображение" src="https://github.com/user-attachments/assets/841018fc-3336-4375-a41c-8aa1aaa6a035" />
+9.1
+<img width="1919" height="1079" alt="изображение" src="https://github.com/user-attachments/assets/34d8d745-14f4-4348-b112-42b964860a23" />
 
 
 
-8.5
-<img width="1919" height="1079" alt="изображение" src="https://github.com/user-attachments/assets/7dea42cd-5429-4b75-b540-af02b99620d5" />
+9.2
+<img width="1913" height="1079" alt="изображение" src="https://github.com/user-attachments/assets/fb7c0a32-5061-4379-a363-6564acfc660c" />
+
+
+
+9.3
+<img width="1919" height="1079" alt="изображение" src="https://github.com/user-attachments/assets/73c09d82-fcff-4ff8-aefb-4dc73bfae2a1" />
+
+
+
+9.4
+<img width="1913" height="1079" alt="изображение" src="https://github.com/user-attachments/assets/30358a98-2766-42b7-9021-14d525b38711" />
+
+
+
+
+9.5
+<img width="1919" height="1079" alt="изображение" src="https://github.com/user-attachments/assets/fd9e0018-09f3-45d3-87f7-d85091f4833a" />
+
 
 
 
 САМОСТОЯТЕЛЬНАЯ РАБОТА
 
-8.1
+9.1
 
 
-8.2
+9.2
 
 
-8.3
-
-
-
-8.4
+9.3
 
 
 
-8.5
+9.4
+
+
+
+9.5
 
 
 
